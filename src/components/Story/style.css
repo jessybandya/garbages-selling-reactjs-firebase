@@ -1,0 +1,10 @@
+.storyRow {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  width: 600px;
+  margin-top: 20px;
+}
+.storyRow::-webkit-scrollbar {
+  display: hidden;
+}

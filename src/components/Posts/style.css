@@ -1,0 +1,9 @@
+.posts {
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  background-color: #f9f9f9;
+  padding-bottom: 0;
+  padding-left: 20px;
+}

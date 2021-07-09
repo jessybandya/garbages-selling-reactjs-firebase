@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: orange;
+  height: 83px;
+  overflow: hidden;
+  max-width: 100%;
+}
+.header__logo {
+  height: 78px;
+  object-fit: contain;
+  margin-top: 10px;
+  margin-left: 70x;
+}
+.header__button {
+  width: 138px;
+  height: 30px;
+  color: orange;
+  font-weight: 500;
+  padding-top: 7px;
+  border-radius: 2px;
+  background: #fff;
+  border: none;
+  position: relative;
+  float: left;
+  display: flex;
+  margin-right: 770px;
+  cursor: pointer;
+}
+.header__button:hover {
+  background-color: rgb(248, 193, 92);
+  cursor: pointer;
+  color: #fff;
+  transition: 0.2s;
+}

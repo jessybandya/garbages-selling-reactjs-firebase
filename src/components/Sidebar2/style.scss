@@ -1,0 +1,33 @@
+.sidebar {
+  height: 50%;
+  width: 500px;
+  position: sticky;
+  background-color: orange;
+  color: white;
+  cursor: pointer;
+  .reg:hover {
+    background-color: blue;
+  }
+
+  a {
+    color: white;
+  }
+  padding-top: 20px;
+  padding-left: 10px;
+}
+.sidebar > h4 {
+  color: white;
+}
+.sibar1 {
+  flex-direction: column;
+  .avatar {
+    margin-left: 50px;
+  }
+  .title {
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+}
+.sibar2 {
+  margin-top: 50px;
+}

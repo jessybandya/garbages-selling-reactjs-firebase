@@ -1,0 +1,9 @@
+.home1 {
+  display: flex;
+}
+.post__image {
+  max-width: 80%;
+}
+.post__likeoptions {
+  max-width: 80%;
+}

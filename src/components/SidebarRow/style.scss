@@ -1,0 +1,18 @@
+.sidebarRow {
+  display: flex;
+
+  h4 {
+    padding-left: 0px;
+  }
+  .icon {
+    font-size: 30px;
+    margin-left: 50px;
+  }
+}
+.sidebarRow:hover {
+  background-color: white;
+  color: orange;
+}
+.sidebarRow.selected {
+  background-color: lightgray;
+}

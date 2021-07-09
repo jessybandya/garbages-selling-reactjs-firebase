@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: orange;
+  justify-content: space-between;
+  max-width: 100%;
+}
+.header__logo {
+  height: 75px;
+  object-fit: contain;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.header__input1 {
+  width: 149px;
+  height: 20px;
+  margin-right: 15px;
+  margin-top: 5px;
+}
+.header__input2 {
+  width: 149px;
+  height: 20px;
+  margin-right: 17px;
+  margin-top: 5px;
+}
+.header__submit {
+  width: 60px;
+  height: 25px;
+  background-color: rgb(245, 195, 103);
+  border: none;
+  color: #fff;
+  display: inline;
+  font-weight: 600;
+  margin-right: 24px;
+  cursor: pointer;
+}

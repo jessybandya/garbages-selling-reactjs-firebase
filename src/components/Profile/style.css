@@ -1,0 +1,31 @@
+.profile__topSection2 {
+  background-color: rgb(221, 214, 214);
+  height: fit-content;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.profile__coverPhoto2 {
+  background-color: orange;
+  margin-left: 15%;
+  margin-right: 15%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  z-index: 0;
+  max-width: 100%;
+}
+
+.profileAvatar2 {
+  height: 160px !important;
+  width: 160px !important;
+  border: 5px solid white;
+  bottom: -20px;
+  margin-bottom: 20px;
+  user-select: none !important;
+  -moz-user-select: none !important;
+  -webkit-user-drag: none !important;
+  -webkit-user-select: none !important;
+  -ms-user-select: none;
+  border-radius: 200px;
+  cursor: pointer;
+}

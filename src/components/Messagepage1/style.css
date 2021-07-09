@@ -1,0 +1,10 @@
+.videoCardMess {
+}
+.videoCard__info1 {
+  padding-left: -100px;
+  flex-direction: column;
+  background-color: white;
+}
+.videoCard1 {
+  background-color: white;
+}
